@@ -8,7 +8,12 @@ Brisbane City QLD
 Email: molba06@naver.com<br>
 ph : 0421 356 941 
 
--------------------        
+-------------------
+Career Goal
+---------
+I have stuided Computer Science at Queensland University of Technology and have learned a computer foundation, web development, up-to-date technologies 
+such as Amazon S3, Buckets and Docker within web development.I am looking for a career opportunity where I can put thoses abilities to work for a website development. 
+
 Education
 ---------
 2019-2022 (expected)
